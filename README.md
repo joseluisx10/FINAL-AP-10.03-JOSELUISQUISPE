@@ -27,31 +27,33 @@ Además, SkillSwap busca aprovechar tecnologías avanzadas para mejorar la exper
 ## Definicion de Factibilidad
 Estos estudios estiman la probabilidad de éxito en un emprendimiento y sirven para ajustar nuestras expectativas o llevar a cabo acciones correctivas para alcanzar las metas trazadas.
 
-## Factibilidad Técnica y Económica para SkillSwap
+## Factibilidad
 
-### **Factibilidad Técnica:**
+### Factibilidad Técnica y Económica para SkillSwap
 
-#### **1. Infraestructura de Servidores:**
+#### **Factibilidad Técnica:**
+
+##### **1. Infraestructura de Servidores:**
 Se debe evaluar si los servidores actuales pueden manejar el tráfico esperado, ofreciendo la escalabilidad necesaria para adaptarse al crecimiento futuro de la plataforma. Además, se debe asegurar que los recursos de hardware sean suficientes para evitar caídas o problemas de rendimiento durante picos de tráfico.
 
-#### **2. Integración de Sistemas:**
+##### **2. Integración de Sistemas:**
 Una de las funcionalidades clave de la plataforma SkillSwap es la integración de sistemas como videoconferencias, gestión de créditos y herramientas interactivas de enseñanza. Será necesario analizar la capacidad de integrar estos sistemas de manera eficiente para ofrecer una experiencia fluida a los usuarios.
 
-#### **3. Seguridad y Protección de Datos:**
+##### **3. Seguridad y Protección de Datos:**
 El cumplimiento de las normativas de seguridad de la información es esencial para proteger los datos sensibles de los usuarios. SkillSwap debe implementar políticas robustas para garantizar la privacidad y la seguridad de la información que los usuarios compartan, incluidas las medidas de encriptación y autenticación.
 
-### **Factibilidad Económica:**
+#### **Factibilidad Económica:**
 
-#### **1. Costos Iniciales:**
+##### **1. Costos Iniciales:**
 Es necesario estimar los costos iniciales para desarrollar la plataforma, lo que incluye gastos de diseño, programación, pruebas y lanzamiento. Es importante definir una estructura de costos que contemple la contratación de personal necesario, infraestructura tecnológica y otros recursos.
 
-#### **2. Costos Operativos:**
+##### **2. Costos Operativos:**
 Además de los costos iniciales, SkillSwap debe considerar los gastos recurrentes asociados con el mantenimiento y operación de la plataforma. Esto incluye los costos de servidores, actualizaciones, soporte técnico y la contratación de personal para la gestión continua del proyecto.
 
-#### **3. Modelo de Ingresos:**
+##### **3. Modelo de Ingresos:**
 Para asegurar la rentabilidad de la plataforma, se debe definir el modelo de ingresos. SkillSwap puede generar ingresos a través de diferentes métodos como suscripciones, comisiones por transacciones o publicidad, o una combinación de estos. Cada uno de estos modelos tiene implicaciones diferentes en cuanto a flujo de ingresos y estrategias comerciales.
 
-#### **4. Análisis de Rentabilidad:**
+##### **4. Análisis de Rentabilidad:**
 El análisis de rentabilidad permite proyectar los ingresos potenciales de la plataforma, comparar con los costos y calcular el retorno de inversión (ROI) esperado. Esto es crucial para determinar si el proyecto es financieramente viable y para definir el período de recuperación de la inversión.
 
 # Framework a utilizar
@@ -75,7 +77,9 @@ El análisis de rentabilidad permite proyectar los ingresos potenciales de la pl
 - **Seguridad Robusta:**  
   Proporciona herramientas y bibliotecas para implementar medidas de seguridad avanzadas, protegiendo la información sensible de los usuarios.
 
-# Proceso de Gestión de Riesgos
+# Gestión de Riesgos
+
+## Proceso de Gestión de Riesgos
 
 - **Identificación de Riesgos:**
   Detectar y documentar los riesgos potenciales.
@@ -91,6 +95,34 @@ El análisis de rentabilidad permite proyectar los ingresos potenciales de la pl
 
 - **Monitorización del Riesgo:**
   Supervisar continuamente los riesgos y las respuestas implementadas, ajustando las estrategias según sea necesario.
+
+## Estrategias de Acción para Mejorar la Calidad de las Videollamadas
+
+### Optimización de la Infraestructura Tecnológica
+
+- **Ancho de Banda Adecuado:** Asegurarse de que tanto instructores como estudiantes dispongan de conexiones a Internet con suficiente ancho de banda para soportar videollamadas de alta calidad.
+- **Equipos Actualizados:** Utilizar dispositivos con especificaciones adecuadas, incluyendo cámaras y micrófonos de calidad, para mejorar la claridad visual y auditiva.
+
+### Selección de Plataformas de Videoconferencia Fiables
+
+- **Evaluación de Herramientas:** Optar por plataformas reconocidas que ofrezcan estabilidad, seguridad y funcionalidades adecuadas para el entorno educativo.
+- **Pruebas Previas:** Realizar pruebas piloto antes de las sesiones en vivo para familiarizarse con las herramientas y ajustar configuraciones según sea necesario.
+
+### Capacitación en Competencias Digitales
+
+- **Formación para Usuarios:** Brindar capacitación a estudiantes y docentes en el uso efectivo de las herramientas tecnológicas, incluyendo resolución de problemas comunes y buenas prácticas.
+- **Soporte Técnico:** Establecer canales de soporte técnico accesibles para resolver inconvenientes durante las sesiones.
+
+### Gestión de la Calidad de la Red
+
+- **Priorización de Tráfico:** Implementar Quality of Service (QoS) en redes para priorizar el tráfico de videoconferencia y minimizar interferencias.
+- **Redundancia de Conexiones:** Contar con conexiones de respaldo o sistemas de conmutación por error para garantizar la continuidad en caso de fallas.
+
+### Monitoreo y Evaluación Continua
+
+- **Recopilación de Feedback:** Solicitar retroalimentación regular de los participantes sobre la calidad técnica y pedagógica de las sesiones.
+- **Análisis de Datos:** Revisar métricas de rendimiento de las videollamadas para identificar patrones y áreas de mejora.
+
 
 #  Herramienta de gestión/seguimiento 
 
