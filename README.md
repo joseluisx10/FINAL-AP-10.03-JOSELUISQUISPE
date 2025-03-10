@@ -55,9 +55,9 @@ Para asegurar la rentabilidad de la plataforma, se debe definir el modelo de ing
 El análisis de rentabilidad permite proyectar los ingresos potenciales de la plataforma, comparar con los costos y calcular el retorno de inversión (ROI) esperado. Esto es crucial para determinar si el proyecto es financieramente viable y para definir el período de recuperación de la inversión.
 
 # Framework a utilizar
-###  ASP.NET Core 
+##  ASP.NET Core 
 
-## Justificación de la Elección de ASP.NET Core para SkillSwap
+### Justificación de la Elección de ASP.NET Core para SkillSwap
 
 
 - **Rendimiento y Escalabilidad:**  
@@ -74,6 +74,23 @@ El análisis de rentabilidad permite proyectar los ingresos potenciales de la pl
 
 - **Seguridad Robusta:**  
   Proporciona herramientas y bibliotecas para implementar medidas de seguridad avanzadas, protegiendo la información sensible de los usuarios.
+
+
+#  Herramienta de gestión/seguimiento 
+## Jira
+### Características de la Herramienta de Gestión de Proyectos Jira 
+
+- **Gestión de Incidencias:**
+  Permite registrar y seguir errores, tareas y mejoras durante el ciclo de vida del proyecto.
+
+- **Flujos de Trabajo Personalizables:**
+  Ofrece la posibilidad de diseñar flujos de trabajo adaptados a las necesidades específicas de cada equipo o proyecto.
+
+- **Integraciones:**
+  Se integra con diversas herramientas como sistemas de control de versiones y plataformas de comunicación, facilitando la colaboración entre equipos.
+
+- **Informes y Dashboards:**
+  Proporciona paneles de control y reportes detallados que permiten monitorear el progreso y desempeño del proyecto en tiempo real.
 
 
 
