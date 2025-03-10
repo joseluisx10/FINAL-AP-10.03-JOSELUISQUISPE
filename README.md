@@ -24,3 +24,56 @@ Además, SkillSwap busca aprovechar tecnologías avanzadas para mejorar la exper
 
 **Tiempo:** Lanzar la plataforma en un plazo de 12 meses, con los resultados clave alcanzados. Durante los primeros 3 meses, se implementarán campañas de marketing en redes sociales (Facebook, Instagram, LinkedIn, Twitter), con el objetivo de generar al menos 50,000 interacciones (me gusta, comentarios, compartidos) en publicaciones clave, tanto en la fase de pre-lanzamiento como durante el lanzamiento.
 
+## Definicion de Factibilidad
+Estos estudios estiman la probabilidad de éxito en un emprendimiento y sirven para ajustar nuestras expectativas o llevar a cabo acciones correctivas para alcanzar las metas trazadas.
+
+## Factibilidad Técnica y Económica para SkillSwap
+
+### **Factibilidad Técnica:**
+
+#### **1. Infraestructura de Servidores:**
+Se debe evaluar si los servidores actuales pueden manejar el tráfico esperado, ofreciendo la escalabilidad necesaria para adaptarse al crecimiento futuro de la plataforma. Además, se debe asegurar que los recursos de hardware sean suficientes para evitar caídas o problemas de rendimiento durante picos de tráfico.
+
+#### **2. Integración de Sistemas:**
+Una de las funcionalidades clave de la plataforma SkillSwap es la integración de sistemas como videoconferencias, gestión de créditos y herramientas interactivas de enseñanza. Será necesario analizar la capacidad de integrar estos sistemas de manera eficiente para ofrecer una experiencia fluida a los usuarios.
+
+#### **3. Seguridad y Protección de Datos:**
+El cumplimiento de las normativas de seguridad de la información es esencial para proteger los datos sensibles de los usuarios. SkillSwap debe implementar políticas robustas para garantizar la privacidad y la seguridad de la información que los usuarios compartan, incluidas las medidas de encriptación y autenticación.
+
+### **Factibilidad Económica:**
+
+#### **1. Costos Iniciales:**
+Es necesario estimar los costos iniciales para desarrollar la plataforma, lo que incluye gastos de diseño, programación, pruebas y lanzamiento. Es importante definir una estructura de costos que contemple la contratación de personal necesario, infraestructura tecnológica y otros recursos.
+
+#### **2. Costos Operativos:**
+Además de los costos iniciales, SkillSwap debe considerar los gastos recurrentes asociados con el mantenimiento y operación de la plataforma. Esto incluye los costos de servidores, actualizaciones, soporte técnico y la contratación de personal para la gestión continua del proyecto.
+
+#### **3. Modelo de Ingresos:**
+Para asegurar la rentabilidad de la plataforma, se debe definir el modelo de ingresos. SkillSwap puede generar ingresos a través de diferentes métodos como suscripciones, comisiones por transacciones o publicidad, o una combinación de estos. Cada uno de estos modelos tiene implicaciones diferentes en cuanto a flujo de ingresos y estrategias comerciales.
+
+#### **4. Análisis de Rentabilidad:**
+El análisis de rentabilidad permite proyectar los ingresos potenciales de la plataforma, comparar con los costos y calcular el retorno de inversión (ROI) esperado. Esto es crucial para determinar si el proyecto es financieramente viable y para definir el período de recuperación de la inversión.
+
+# Framework a utilizar
+###  ASP.NET Core 
+
+## Justificación de la Elección de ASP.NET Core para SkillSwap
+
+
+- **Rendimiento y Escalabilidad:**  
+  ASP.NET Core ofrece un entorno de ejecución de alto rendimiento, ideal para aplicaciones que requieren escalabilidad y capacidad para manejar un alto volumen de tráfico.
+
+- **Multiplataforma:**  
+  Permite el desarrollo y despliegue de aplicaciones en Windows, Linux y macOS, brindando flexibilidad en la infraestructura y reducción de costos operativos.
+
+- **Arquitectura:**  
+  Soporta patrones arquitectónicos como MVC (Modelo-Vista-Controlador), facilitando la separación de responsabilidades y mejorando el mantenimiento del código.
+
+- **Integración de Funcionalidades:**  
+  Facilita la incorporación de características como videoconferencias, gestión de créditos y herramientas interactivas de enseñanza, esenciales para SkillSwap.
+
+- **Seguridad Robusta:**  
+  Proporciona herramientas y bibliotecas para implementar medidas de seguridad avanzadas, protegiendo la información sensible de los usuarios.
+
+
+
