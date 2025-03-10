@@ -75,8 +75,25 @@ El análisis de rentabilidad permite proyectar los ingresos potenciales de la pl
 - **Seguridad Robusta:**  
   Proporciona herramientas y bibliotecas para implementar medidas de seguridad avanzadas, protegiendo la información sensible de los usuarios.
 
+# Proceso de Gestión de Riesgos
+
+- **Identificación de Riesgos:**
+  Detectar y documentar los riesgos potenciales.
+  
+- **Análisis de Riesgos:**
+  Analizar la probabilidad de que cada riesgo ocurra y el impacto que tendría, priorizándolos según su gravedad.
+  
+- **Planificación ante el Riesgo:**
+  Desarrollar estrategias y acciones específicas para mitigar, transferir, aceptar o evitar cada riesgo identificado.
+  
+- **Implementación de Respuestas:**
+  Ejecutar las acciones planificadas para gestionar los riesgos de manera efectiva.
+
+- **Monitorización del Riesgo:**
+  Supervisar continuamente los riesgos y las respuestas implementadas, ajustando las estrategias según sea necesario.
 
 #  Herramienta de gestión/seguimiento 
+
 ## Jira
 ### Características de la Herramienta de Gestión de Proyectos Jira 
 
@@ -91,6 +108,10 @@ El análisis de rentabilidad permite proyectar los ingresos potenciales de la pl
 
 - **Informes y Dashboards:**
   Proporciona paneles de control y reportes detallados que permiten monitorear el progreso y desempeño del proyecto en tiempo real.
+  
+
+  
+![atlassian-jira-logo-large](https://github.com/user-attachments/assets/e68983fb-8b2d-4d9b-9825-df303af981ab)
 
 
 
